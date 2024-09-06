@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=JeongIN&height=150&fontSize=60&desc=Only%20Use%20Text&descAlignY=75&descAlign=60)
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=JeongIN&height=150&fontSize=60&desc=Only%20Use%20Text&descAlignY=75&descAlign=60)
 
 <p>🛠 SKils 🛠</p>
 <p>
@@ -12,13 +12,6 @@
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
-</p>
-
-<h3 align="center">💡 My Most Used Languages 💡</h3>
-<p align="center">
-  <a href="https://github.com/JeongIn">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daveg7lee&layout=compact&show_icons=true&show_owner=true&hide_title=false&theme=nord&" />
-  </a>
 </p>
 
 <!--
