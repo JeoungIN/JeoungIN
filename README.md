@@ -14,6 +14,8 @@
 </p>
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeongIN)
+
 <h4>  💁🏻‍♀️ Learn more! 👩🏻‍💻 </h4>
 
 
