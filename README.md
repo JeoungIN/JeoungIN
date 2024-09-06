@@ -14,7 +14,7 @@
 </p>
 
 
-<h4> Learn more! </h4>
+<h4>  💁🏻‍♀️ Learn more!  </h4>
 
 
 <!--
