@@ -12,9 +12,9 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
 </p>
-<!--
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeoungIN\&layout=compact)
--->
+
 
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeongIN)
