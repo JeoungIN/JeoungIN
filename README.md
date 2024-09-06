@@ -13,11 +13,12 @@
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
 </p>
 
-
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeongIN)
+-->
 
-<h4>  💁🏻‍♀️ Learn more! 👩🏻‍💻 </h4>
-
+<h4>  💁🏻‍♀️ Contact Me! 👩🏻‍💻 </h4>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
 
 <!--
 **JeoungIN/JeoungIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
