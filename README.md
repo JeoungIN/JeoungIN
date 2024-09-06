@@ -2,9 +2,10 @@
 
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Hello&height=150&fontSize=60&desc=Only%20Use%20Text&descAlignY=75&descAlign=60)
 
-<p>🛠 Tools 🛠</p>
-
+<p>🛠 SKils 🛠</p>
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
+<img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white"/> 
 
 
 <!--
