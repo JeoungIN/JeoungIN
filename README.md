@@ -13,6 +13,10 @@
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
 </p>
 
+
+<h4> Learn more! </h4>
+
+
 <!--
 **JeoungIN/JeoungIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
