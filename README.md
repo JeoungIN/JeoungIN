@@ -14,10 +14,12 @@
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
 </p>
 
-<!--
-## 💻 Stack
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
--->
+<h3 align="center">💡 My Most Used Languages 💡</h3>
+<p align="center">
+  <a href="https://github.com/JeongIn">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daveg7lee&layout=compact&show_icons=true&show_owner=true&hide_title=false&theme=nord&" />
+  </a>
+</p>
 
 <!--
 **JeoungIN/JeoungIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
