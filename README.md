@@ -1,9 +1,8 @@
 ## Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+JeongIN's+GitHub!👋)](https://git.io/typing-svg)
-
+## 💻 Stack
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
 <!--
 **JeoungIN/JeoungIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
