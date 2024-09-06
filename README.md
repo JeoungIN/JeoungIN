@@ -1,7 +1,7 @@
 <div align=center>
 
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=JeongIN&height=150&fontSize=60&desc=Only%20Use%20Text&descAlignY=75&descAlign=60)
-<p>🛠 SKils 🛠</p>
+<h4>🛠 Tech Stack 🛠</h4>
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
