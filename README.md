@@ -2,7 +2,7 @@
 
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Hello&height=150&fontSize=60&desc=Only%20Use%20Text&descAlignY=75&descAlign=60)
 
-<p>🛠 SKils 🛠</p>
+<p>🛠 SKils 🛠</p>
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
