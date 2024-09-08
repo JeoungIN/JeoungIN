@@ -10,8 +10,7 @@ Communication 💬 | Always Improving 🌟 | Android & Backend 👩🏻‍💻
 I’m a developer who solves problems with precision,
 <br>
 stays focused on the task at hand, and does my best work.
-<hr>
-<br>
+
 <br>
 <h4>👩🏻‍💻 Backend Developer 👩🏻‍💻 </h4>
 <hr>
