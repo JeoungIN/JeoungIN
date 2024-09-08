@@ -10,10 +10,8 @@ Communication 💬 | Always Improving 🌟 | Android & Backend 👩🏻‍💻
 <h4>⚽︎  On the ball  ⚽︎ </h4>
 I’m a developer who solves problems with precision, stays focused on the task at hand, and does my best work.
 <br>
-<h3>👩🏻‍💻 Backend Developer 👩🏻‍💻 </h3>
-
 <br>
-<br>
+<h4>👩🏻‍💻 Backend Developer 👩🏻‍💻 </h4>
 
 <h4>🛠 Tech Stack 🛠</h4>
 <p>
@@ -36,11 +34,9 @@ I’m a developer who solves problems with precision, stays focused on the task 
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeongIN)
 -->
-<br>
+
 <h4>  📧 Contact Me! 📧 </h4>
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
-<br>
-<br>
 
 <h3 align="center">👩🏻‍💻 My Github Stats 👩🏻‍💻</h3>
 
