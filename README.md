@@ -1,7 +1,12 @@
 <div align=center>
-  
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=2A6379&text=Hi%20there&height=150&fontSize=60&desc=JeongIN's%20GitHub&descAlignY=75&descAlign=60)
 
+
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=2A6379&text=Hi%20there,%20JeongIN's%20GitHub👋&height=150&fontSize=60&descAlignY=75&descAlign=60)
+
+
+<!--
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=2A6379&text=Hi%20there&height=150&fontSize=60&desc=JeongIN's%20GitHub&descAlignY=75&descAlign=60)
+-->
 
 <!--
 <h2 align='center'> 개발자 ooo입니다👋</h2>
