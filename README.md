@@ -1,6 +1,6 @@
 <div align=center>
   
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=2A6379&text=JeongIN&height=150&fontSize=60&desc=Only%20Use%20Text&descAlignY=75&descAlign=60)
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=2A6379&text=Hi%20there&height=150&fontSize=60&desc=JeongIN's%20GitHub&descAlignY=75&descAlign=60)
 
 
 <!--
