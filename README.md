@@ -1,6 +1,10 @@
 <div align=center>
   
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=2A6379&text=JeongIN&height=150&fontSize=60&desc=Only%20Use%20Text&descAlignY=75&descAlign=60)
+<div align="center" style="background: linear-gradient(90deg, rgba(102,16,242,1) 0%, rgba(94,94,228,1) 35%, rgba(0,212,255,1) 100%); padding: 20px; color: white;">
+  <h1>Write code without the keyboard</h1>
+  <p>Difficulty typing? Use your voice to code without spelling things out by talking with GitHub Copilot.</p>
+</div>
 
 <!--
 <h2 align='center'> 개발자 ooo입니다👋</h2>
@@ -8,8 +12,6 @@
 -->
 
 <h4>Backend Developer 👩‍💻</h4>
-
-백앤드 개발에 관심을 가지고 있으며, 모바일 앱 개발에도 관심을 가지고 있습니다.
 
 
 <h4>🛠 Tech Stack 🛠</h4>
