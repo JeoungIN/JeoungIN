@@ -34,10 +34,10 @@ stays focused on the task at hand, and does my best work.
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeongIN)
 -->
-
+<br>
 <h3>  📧 Contact Me! 📧 </h3>
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
-
+<br>
 <h3>👩🏻‍💻 My Github Stats 👩🏻‍💻</h3>
 
 <p>
