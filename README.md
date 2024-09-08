@@ -21,9 +21,9 @@
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeongIN)
 -->
-<br>
 <h4>  💁🏻‍♀️ Contact Me! 👩🏻‍💻 </h4>
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
+<br>
 <br>
 <h3 align="center">👩🏻‍💻 My Github Stats 👩🏻‍💻</h3>
 <div align="center">
