@@ -10,7 +10,6 @@ I’m a developer who solves problems with precision,
 <br>
 stays focused on the task at hand, and does my best work.
 <br>
-<br>
 <hr>
 <h3>👩🏻‍💻 Backend Developer 👩🏻‍💻 </h3>
 
