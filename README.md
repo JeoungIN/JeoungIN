@@ -12,6 +12,7 @@ stays focused on the task at hand, and does my best work.
 <br>
 <br>
 <h4>👩🏻‍💻 Backend Developer 👩🏻‍💻 </h4>
+<hr>
 
 <h4>🛠 Tech Stack 🛠</h4>
 <p>
