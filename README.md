@@ -12,7 +12,6 @@ stays focused on the task at hand, and does my best work.
 <br>
 <hr>
 <h3>👩🏻‍💻 Backend Developer 👩🏻‍💻 </h3>
-<br>
 
 <h3>🛠 Tech Stack 🛠</h3>
 <p>
@@ -28,15 +27,9 @@ stays focused on the task at hand, and does my best work.
   <img src="https://img.shields.io/badge/Swagger-6FCE45?style=flat-square&logo=swagger&logoColor=white"/>
 </p>
 
-<!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeoungIN\&layout=compact)
--->
-
-<!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeongIN)
--->
 <h3>  📧 Contact Me! 📧 </h3>
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
+
 <h3>👩🏻‍💻 My Github Stats 👩🏻‍💻</h3>
 
 <p>
