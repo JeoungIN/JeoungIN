@@ -2,8 +2,12 @@
   
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=2A6379&text=JeongIN&height=150&fontSize=60&desc=Only%20Use%20Text&descAlignY=75&descAlign=60)
 
+<!--
 <h2 align='center'> 개발자 ooo입니다👋</h2>
 <br/>
+-->
+
+Backend Developer 👩‍💻
 
 <h4>🛠 Tech Stack 🛠</h4>
 <p>
