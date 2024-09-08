@@ -5,10 +5,12 @@
 
 Communication 💬 | Always Improving 🌟 | Android & Backend 👩🏻‍💻
 -->
+<hr>
 <h4>⚽︎  On the ball  ⚽︎ </h4>
 I’m a developer who solves problems with precision,
 <br>
 stays focused on the task at hand, and does my best work.
+<hr>
 <br>
 <br>
 <h4>👩🏻‍💻 Backend Developer 👩🏻‍💻 </h4>
