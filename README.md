@@ -2,8 +2,6 @@
 
 
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=2A6379&text=JeongIN's%20GitHub👋&height=150&fontSize=60&descAlignY=75&descAlign=60)
-
-
 <!--
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=2A6379&text=Hi%20there&height=150&fontSize=60&desc=JeongIN's%20GitHub&descAlignY=75&descAlign=60)
 Communication 💬 | Always Improving 🌟 | Android & Backend 👩🏻‍💻
