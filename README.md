@@ -8,13 +8,11 @@
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=2A6379&text=Hi%20there&height=150&fontSize=60&desc=JeongIN's%20GitHub&descAlignY=75&descAlign=60)
 -->
 
-<!--
-<h2 align='center'> 개발자 ooo입니다👋</h2>
-<br/>
--->
-
 <h4> Backend Developer 👩🏻‍💻 </h4>
 Communication 💬 | Always Improving 🌟 | Android & Backend 👩🏻‍💻
+
+<h3> On the ball ⚽︎ </h3>
+I’m a developer who solves problems with precision, stays focused on the task at hand, and does my best work.
 
 <br>
 <br>
