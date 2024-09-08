@@ -5,16 +5,16 @@
 Communication 💬 | Always Improving 🌟 | Android & Backend 👩🏻‍💻
 -->
 
-<h4>⚽︎  On the ball  ⚽︎ </h4>
+<h3>⚽︎  On the ball  ⚽︎ </h3>
 I’m a developer who solves problems with precision,
 <br>
 stays focused on the task at hand, and does my best work.
 <br>
 <br>
 <hr>
-<h4>👩🏻‍💻 Backend Developer 👩🏻‍💻 </h4>
+<h3>👩🏻‍💻 Backend Developer 👩🏻‍💻 </h3>
 
-<h4>🛠 Tech Stack 🛠</h4>
+<h3>🛠 Tech Stack 🛠</h3>
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
@@ -36,7 +36,7 @@ stays focused on the task at hand, and does my best work.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeongIN)
 -->
 
-<h4>  📧 Contact Me! 📧 </h4>
+<h3>  📧 Contact Me! 📧 </h3>
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
 
 <h3>👩🏻‍💻 My Github Stats 👩🏻‍💻</h3>
