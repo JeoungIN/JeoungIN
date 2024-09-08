@@ -1,5 +1,3 @@
-<div align=center>
-
 
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=2A6379&text=JeongIN's%20GitHub👋&height=150&fontSize=60&descAlignY=75&descAlign=60)
 <!--
@@ -40,9 +38,9 @@ stays focused on the task at hand, and does my best work.
 <h4>  📧 Contact Me! 📧 </h4>
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
 
-<h3 align="center">👩🏻‍💻 My Github Stats 👩🏻‍💻</h3>
+<h3>👩🏻‍💻 My Github Stats 👩🏻‍💻</h3>
 
-<p align="center">
+<p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=hyeinisfree&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue" alt="Anurag's GitHub stats" />
   </a>
