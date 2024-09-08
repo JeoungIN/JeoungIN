@@ -9,6 +9,9 @@
 
 <h4>Backend Developer 👩‍💻</h4>
 
+백앤드 개발에 관심을 가지고 있으며, 모바일 앱 개발에도 관심을 가지고 있습니다.
+
+
 <h4>🛠 Tech Stack 🛠</h4>
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
