@@ -5,6 +5,7 @@
 On the ball, 축구에서 공과 밀접하게 관여하여 플레이하는 상황
 <br>
 흐름을 읽고, 적시에 전략적인 선택을 하는 빈틈없는 개발자
+<br>
 I’m a developer who solves problems with precision,
 <br>
 stays focused on the task at hand, and does my best work.
