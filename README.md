@@ -28,8 +28,8 @@ stays focused on the task at hand, and does my best work.
   <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/></a>&nbsp
   <br>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Swagger-6FCE45?style=flat-square&logo=swagger&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swagger-6FCE45?style=flat-square&logo=swagger&logoColor=white"/>
 </p>
 
 <h3>  📧 Contact Me! 📧 </h3>
