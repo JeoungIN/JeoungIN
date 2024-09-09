@@ -2,10 +2,13 @@
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=2A6379&text=JeongIN's%20GitHub👋&height=150&fontSize=60&descAlignY=75&descAlign=60)
 
 <h3>⚽︎  On the ball  ⚽︎</h3>
-On the ball, 축구에서 공과 밀접하게 관여하여 플레이하는 상황
+On the ball, 
 <br>
-흐름을 읽고, 적시에 전략적인 선택을 하는 빈틈없는 개발자
+In soccer, a situation in which play involves close involvement with the ball.
 <br>
+A shrewd developer who reads the flow and makes strategic choices at the right time.
+<br>
+
 <br>
 I’m a developer who solves problems with precision,
 <br>
